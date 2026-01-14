@@ -1,4 +1,5 @@
 ## Week 2
+This repositort contains solutions for four Python programming exercises. Each program demonstrates basic programming concepts such as input/output, arithmetic operations, conditional expressions, and formatted output.
 
 # Program 1: Greeting the User
 This program asks the user to enter their name and displays a friendly greeting message.
