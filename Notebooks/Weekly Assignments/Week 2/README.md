@@ -1,7 +1,7 @@
-## Week 2
+# Week 2
 This repositort contains solutions for four Python programming exercises. Each program demonstrates basic programming concepts such as input/output, arithmetic operations, conditional expressions, and formatted output.
 
-# Program 1: Greeting the User
+## Program 1: Greeting the User
 This program asks the user to enter their name and displays a friendly greeting message.
 
 What it does:
@@ -12,7 +12,7 @@ Python concepts used:
 - input() function for getting user input.
 - f-string for formatted output
 
-# Program 2: Celsius to Fahrenheit Converter
+## Program 2: Celsius to Fahrenheit Converter
 This program converts a temperature given in Celsius to Fahrenheit.
 
 What it does:
@@ -25,7 +25,7 @@ Python concepts used:
 - Arithmetic operations (*,/,+)
 - Formatted output using f-string.
 
-# Program 3: Lab Group Calculator
+## Program 3: Lab Group Calculator
 This program calculates how many lab groups can be formed from a given number of students and a required group size.
 
 What it does:
@@ -39,7 +39,7 @@ Python concepts used:
 - Conditional expressions for proper grammar.
 - Formatted output.
 
-# Program 4: Sweet Distribution Calculator
+## Program 4: Sweet Distribution Calculator
 This program helps a teacher distribute sweets evenly among pupils.
 
 What it does:
