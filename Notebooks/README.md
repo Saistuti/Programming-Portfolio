@@ -78,6 +78,6 @@ This introduces iteration (loops) in Python. Covers creating sequences, generati
 This focuses on error handling and moving beyond the Happy Path. Covers conditional statements, input validation, exception handling (EAFP and LBYL), and real-world interactive programs such as unit conversion, sharing sweets, calculating averages, and computing change with optimal coins.
 
 ### my_profile.png
-Here is the profile of my GitHUb account.
+Here is the profile of my GitHub account.
 
 
