@@ -1,5 +1,5 @@
 # Week 3
-This repository contains a series of Python programs designed to practice user input handling, conditionals, loops, and basic arithmetic operations.
+This repository contains a series of Python programs designed to practice user input handling, conditionals, loops, and basic arithmetic operations. Each program demonstrates important Python concepts and gradually introduces more complex logic such as input validation and iterative loops.
 
 ## Program 1: Greeting the User
 This program asks the user to enter their name.
