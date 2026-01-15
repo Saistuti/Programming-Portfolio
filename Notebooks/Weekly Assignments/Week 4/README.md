@@ -1,4 +1,4 @@
-# Week 4
+# Week 4 : Python Functions and String & Temperature Processing
 This repository contains a collection of Python programs focused on functions, string manipulation, input validation, and temperature processing.
 
 ## Program 1: Valid Mark Checker
