@@ -4,7 +4,7 @@ This repository contains my coursework portfolio for the Fundamentals of Compute
 The repository is organised into the following main sections:
 
 # Notebooks
-The Notebooks folder contains weekly notebooks created during practical sessions. Each notebook includes Python code, explanations, and examples developed as part of the module's hands-on exercises.
+The Notebooks folder contains weekly notebooks created during practical sessions and practical exercises. Each notebook includes Python code, explanations, and examples developed as part of the module's hands-on exercises.
 
 # Logbook
 The Logbook folder contains weekly learning notes based on lectures.
